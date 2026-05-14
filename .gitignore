@@ -1,0 +1,7 @@
+# Build outputs
+main
+main.exe
+
+# VS Code local settings
+.vscode/c_cpp_properties.json
+.vscode/settings.json
